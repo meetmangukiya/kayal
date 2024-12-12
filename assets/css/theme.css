@@ -1,5 +1,5 @@
 :root{
-  --ff: 'Ubuntu';
+  --ff: 'Recursive Sans Casual Static';
   --radius: 6px;
   --primary-color: #292929;
   --secondary-color: #EFEFE6;
@@ -27,8 +27,16 @@
 
 @font-face {
   font-display: swap;
-  font-family: 'Ubuntu';
+  font-family: 'Recursive Sans Casual Static';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/Ubuntu-Regular.woff2') format('woff2');
+  src: url('../fonts/RecursiveSansCslSt-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Recursive Mono Casual Static';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/RecursiveMonoCslSt-Regular.woff2') format('woff2');
 }
