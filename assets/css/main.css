@@ -541,6 +541,7 @@ pre:hover .copy-button {
 }
 
 .showmore button {
+  font-family: var(--ff);
   border: 2px solid var(--tertiary-color);
   color: var(--primary-color);
   background-color: var(--secondary-color);
